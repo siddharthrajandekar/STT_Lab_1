@@ -1,0 +1,1 @@
+This is an exercise to test out how git works and how we can use various features of git like commit, push, pull, etc.
